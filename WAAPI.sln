@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAAPI", "WAAPI\WAAPI.csproj", "{871B89C9-6D8C-4410-A924-20AE00BB042D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAWebApp", "..\WAWebApp\WAWebApp.csproj", "{6B93E080-C6B5-44ED-84FD-930611F767A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAWinApp", "..\WAWinApp\WAWinApp.csproj", "{0F2879A7-C791-4133-B1D1-55446EDBA780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871B89C9-6D8C-4410-A924-20AE00BB042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871B89C9-6D8C-4410-A924-20AE00BB042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871B89C9-6D8C-4410-A924-20AE00BB042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871B89C9-6D8C-4410-A924-20AE00BB042D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B93E080-C6B5-44ED-84FD-930611F767A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B93E080-C6B5-44ED-84FD-930611F767A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B93E080-C6B5-44ED-84FD-930611F767A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B93E080-C6B5-44ED-84FD-930611F767A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2879A7-C791-4133-B1D1-55446EDBA780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2879A7-C791-4133-B1D1-55446EDBA780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2879A7-C791-4133-B1D1-55446EDBA780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2879A7-C791-4133-B1D1-55446EDBA780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1436681-3AFB-4081-994F-EBD42C392982}
+	EndGlobalSection
+EndGlobal
